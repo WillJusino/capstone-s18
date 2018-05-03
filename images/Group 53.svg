@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1275 4844 150 58">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;stroke:#707070}.cls-2{fill:#464646;font-size:20px;font-family:Montserrat-SemiBold,Montserrat;font-weight:600}.cls-3{stroke:none}.cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="Group_53" data-name="Group 53" transform="translate(0 -2455)">
+        <g id="Rectangle_21" class="cls-1" data-name="Rectangle 21" transform="translate(1275 7299)">
+            <rect width="150" height="58" class="cls-3" rx="18"/>
+            <rect width="149" height="57" x=".5" y=".5" class="cls-4" rx="17.5"/>
+        </g>
+        <text id="ZIP" class="cls-2" transform="translate(1285.035 7315)">
+            <tspan x="0" y="19">ZIP</tspan>
+        </text>
+    </g>
+</svg>

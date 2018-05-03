@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="960 4844 303 58">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;stroke:#707070}.cls-2,.cls-3{fill:#464646}.cls-2{font-size:20px;font-family:Montserrat-SemiBold,Montserrat;font-weight:600}.cls-4{stroke:none}.cls-5{fill:none}
+        </style>
+    </defs>
+    <g id="Group_52" data-name="Group 52" transform="translate(0 -2455)">
+        <g id="Rectangle_23" class="cls-1" data-name="Rectangle 23" transform="translate(960 7299)">
+            <rect width="303" height="58" class="cls-4" rx="18"/>
+            <rect width="302" height="57" x=".5" y=".5" class="cls-5" rx="17.5"/>
+        </g>
+        <text id="STATE" class="cls-2" transform="translate(980.271 7315)">
+            <tspan x="0" y="19">STATE</tspan>
+        </text>
+        <g id="Rectangle_24" class="cls-1" data-name="Rectangle 24" transform="translate(1048 7315)">
+            <rect width="26" height="26" class="cls-4" rx="8"/>
+            <rect width="25" height="25" x=".5" y=".5" class="cls-5" rx="7.5"/>
+        </g>
+        <path id="Path_46" d="M12.9 0v12.9H0z" class="cls-3" data-name="Path 46" transform="rotate(45 -8299.336 4938.178)"/>
+    </g>
+</svg>
