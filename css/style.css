@@ -167,7 +167,7 @@ section.module.parallax h1 {
 }
 
 section.module.parallax-1 {
-  background-image: url("../images/elephants-sky-grass.jpg");
+  background-image: url("../images/Elephants-at-water.jpg");
   background-color: #58595B;
 }
 
@@ -259,7 +259,7 @@ section.module.parallax-3 {
 }
 
 
-/* --gallery-- */
+/* --news-- */
 
 .news h2{
   width: 100%;
@@ -342,6 +342,22 @@ section.module.parallax-3 {
   margin-top: 20px;
 }
 
+news li a:link {
+  color: #F47920;
+  text-decoration: none;
+}
+news li a:visited {
+  color: #091c5a;
+  text-decoration: none;
+}
+news li a:hover {
+  color: #F47920;
+  text-decoration: none;
+}
+news li a:active {
+  color: #F47920;
+  text-decoration: none;
+}
 
 /* --campaign-- */
 
@@ -478,7 +494,7 @@ footer {
 }
   
 footer a:link {
-  color: #043480;
+  color: #FF8900;
   text-decoration: none;
   outline: 0;
 }
@@ -502,16 +518,7 @@ footer a:active {
   color: #ffffff;
   padding: 10px 0;
 }
-.fa-twitter,
-.fa-facebook,
-.fa-youtube,
-.fa-google {
-  font-size: 2em;
-  line-height:  1.2;
-  color: #043480;
-  margin-bottom: 0;
-    margin-top: 50px;
-}
+
 
 .copyright {
   background-color: #fff;
