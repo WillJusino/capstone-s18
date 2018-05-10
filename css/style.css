@@ -102,6 +102,17 @@ nav li a:active {
   transform: translateY(-100%);
 }
 
+.type-overlay h1 {
+  font-weight:100;
+  position: absolute;
+  top: 250px;
+  width: 100%;
+  z-index: 5;
+  text-align: center;
+  color: rgba(0, 0, 0, .4);
+}
+
+
 /*
 =================================
 Parallax CSS SECTIONS
@@ -290,62 +301,7 @@ section.module.parallax-3 {
 }
 
 
-#gallery {
-  width: 100%;
-  float: left;
-}
 
-.red {
-  width: 300px;
-  height: 260px;
-  background: #2E97DE;
-}
-
-.boxgrid h3 {
-  margin: 10px 10px 0 10px;
-  color: #fff;
-  font: 18pt Arial, sans-serif;
-  letter-spacing: -1px;
-  font-weight: bold;
-}
-
-.boxgrid {
-  width: 300px;
-  height: 260px;
-  float: left;
-  background: #161613;
-  overflow: hidden;
-  position: relative;
-  border-radius: 10px;
-}
-
-.boxgrid img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  border: 0;
-}
-
-.boxgrid p {
-  padding: 0 10px;
-  color: #FF8900;
-  font-weight: bold;
-  font: 10pt 'Montserrat', Arial, sans-serif;
-}
-
-.boxcaption {
-  float: left;
-  position: absolute;
-  background: #000;
-  height: 100px;
-  width: 100%;
-  opacity: .8;
-}
-
-.boxgrid a {
-  color: #fff;
-  text-decoration: none;
-}
 
 .captionfull .boxcaption {
   top: 260px;
@@ -393,12 +349,12 @@ news li a:active {
 
 .campaigns {
   padding-top: 0;
-    padding-bottom: 50px;               
+    padding-bottom: 10px;               
 }
 
 .campaigns h2{
   padding-top: 0;
-    padding-bottom: 50px;
+    padding-bottom: 5px;
   text-align: center;
 }
 
@@ -430,9 +386,9 @@ news li a:active {
 .contact-form {
   width: 460px;
   font-size: 0.9em;
-  color: blue;
-	
+  color: blue;	
 }
+
 .contact-form input[type="text"],
 .contact-form input[type="email"],
 .contact-form textarea,
