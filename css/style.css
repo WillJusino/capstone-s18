@@ -14,7 +14,6 @@
 
 #home,
 #about,
-#campaign,
 #news,
 #takeaction {
   width: 100%;
@@ -23,7 +22,8 @@
 }
 
 #home,
-#about {
+#about,
+#campaign{
   background: #B1D382;
 }
 
@@ -261,6 +261,26 @@ section.module.parallax-3 {
 
 /* --news-- */
 
+/* -------- [ News Links ] -------- */
+.news a:link {
+	color: #B1D382;
+	text-decoration: none;
+	outline: 0;
+}
+.news a:visited {
+	color: #B1D382;
+	text-decoration: none;
+	outline: 0;
+}
+.news a:hover {
+	color: #B1D382;
+	text-decoration: none;
+}
+.news a:active {
+	color: #B1D382;
+}
+
+
 .news h2{
   width: 100%;
   padding-top: 0;
@@ -396,16 +416,14 @@ news li a:active {
   padding: 50px 0;
   float: left;
   text-align: center;
-  background: #fff;
+  background: #FF8900;
 }
 
 #contact-map h2 {
 	margin-bottom: 50px;
 }
 
-iframe {
-  border: 1px solid #ffffff;
-}
+
 .directions {
   text-align: left;
 }
@@ -494,7 +512,7 @@ footer {
 }
   
 footer a:link {
-  color: #FF8900;
+  color: #B1D382;
   text-decoration: none;
   outline: 0;
 }
@@ -506,7 +524,7 @@ footer a:visited {
 }
 
 footer a:hover {
-  color: #FF8900;
+  color: #fff;
 }
 
 footer a:active {
@@ -521,9 +539,9 @@ footer a:active {
 
 
 .copyright {
-  background-color: #fff;
+  background-color: #FF8900;
   width: both;
-  color: #959595;
+  color: #fff;
   padding-bottom: 50px;
 }
  
